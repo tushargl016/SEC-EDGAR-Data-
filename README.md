@@ -1,1 +1,2 @@
 # Team5assignment1
+Our approach to address Part 1 involved scraping the Edgar Data Website when Accession Number and CIK as input arguments. The form is parsed for the 10Q filing using Python Libraries and data is input into a data frame. We then implemented data cleansing which included extracting only tables with the data. Followed by aligning the columns, removing ‘$’ signs which occupied individual columns, removing NaN, None and any occurrences of blank columns and after removing the Nan and None values realigned the columns by looping through the data frame.
