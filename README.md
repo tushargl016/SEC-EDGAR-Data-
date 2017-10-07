@@ -1,4 +1,8 @@
 # Team5assignment1
+## TeamMembers:
+  1. Tushar Goel
+  2. Jaini Bhansali
+
 ## Problem 1:
 To extract tables from 10Q filings using r or Python. Given a accession number and CIK programattically generate the URL and extract data from the 10Q file. Dockerize images and  zip the file and upload to Amazon S3
 ## Problem 2: 
@@ -20,5 +24,7 @@ The folder team5Assignment1 consists of Part1ofPart1, Part2ofPart1 which address
 1.	Language used : Python
 2.	Process Followed : Data Ingestion, Data Wrangling, Data Cleansing, Exploratory Data Analysis
 3.	Tools used :  Jupyter Notebook, boto 3, boto, Amazon S3 bucket
+
+### For further Details please refer the Assignment1_Documentation file
 
 
