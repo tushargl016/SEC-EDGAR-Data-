@@ -25,6 +25,6 @@ The folder team5Assignment1 consists of Part1ofPart1, Part2ofPart1 which address
 2.	Process Followed : Data Ingestion, Data Wrangling, Data Cleansing, Exploratory Data Analysis
 3.	Tools used :  Jupyter Notebook, boto 3, boto, Amazon S3 bucket
 
-### For further Details please refer the Assignment1_Documentation file
+### For further Details please refer the Assignment1_Documentation.pdf file
 
 
